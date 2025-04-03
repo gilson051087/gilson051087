@@ -1,6 +1,6 @@
 #  Gilson Elias 
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Backend`**
 
 Olá, sou o Gilson Elias! 👋
 
