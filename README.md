@@ -8,7 +8,8 @@ Tenho 37 anos e sou de Curitiba. Atualmente, estou começando minha jornada na t
 
 Sou apaixonado por tecnologia e adoro como ela pode transformar ideias em algo real. Estou começando a explorar novas linguagens, frameworks e ferramentas e sempre em busca de novos conhecimentos.
 
-Se você quiser saber mais sobre o que estou fazendo, acesse meu site: https://gilsonelias.netlify.app. Fique à vontade para dar uma olhada, acompanhar meu trabalho e até conversar sobre possíveis colaborações!
+Se você quiser saber mais sobre o que estou fazendo, acesse meu site: https://gilsonelias.netlify.app. 
+Fique à vontade para dar uma olhada, acompanhar meu trabalho e até conversar sobre possíveis colaborações!
 
 
 ---
