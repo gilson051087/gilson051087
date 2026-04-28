@@ -4,7 +4,7 @@
 
 Olá, sou o Gilson Elias! 👋
 
-Tenho 37 anos e sou de Curitiba. Atualmente, estou começando minha jornada na tecnologia, cursando Análise e Desenvolvimento de Sistemas na ESTÁCIO. Estou aprendendo muito sobre programação e desenvolvimento de software, e estou empolgado em ver o quanto ainda tenho para aprender.
+Tenho 38 anos e sou de Curitiba. Atualmente, estou começando minha jornada na tecnologia, cursando Análise e Desenvolvimento de Sistemas na ESTÁCIO. Estou aprendendo muito sobre programação e desenvolvimento de software, e estou empolgado em ver o quanto ainda tenho para aprender.
 
 Sou apaixonado por tecnologia e adoro como ela pode transformar ideias em algo real. Estou começando a explorar novas linguagens, frameworks e ferramentas e sempre em busca de novos conhecimentos.
 
